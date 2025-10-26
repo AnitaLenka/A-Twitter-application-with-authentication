@@ -3,7 +3,7 @@ This project is a fully functional Twitter-style web application developed using
 Users can create, edit, and delete tweets.
 
 Technologies Used : 
-Python
-Django
-Django Admin Panel (for database)
+Python, 
+Django, 
+Django Admin Panel (for database), 
 HTML/CSS (for frontend templates)
